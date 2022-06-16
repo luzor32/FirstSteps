@@ -1,0 +1,6 @@
+1 tocar la guitarra
+2 salir a correr
+3 ver peliculas 
+4 dibujar
+5 jugar videos juegos
+6 escuchar musica
